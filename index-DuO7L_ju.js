@@ -1,0 +1,1 @@
+import{_ as c,c as o,e as n,f as t,o as r}from"./index-B8ct-maT.js";const a={};function s(_,l){const e=t("el-card");return r(),o("div",null,[n(e,{style:{"max-width":"100%"}})])}const f=c(a,[["render",s]]);export{f as default};
